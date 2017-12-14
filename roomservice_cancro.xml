@@ -1,0 +1,13 @@
+<!-- 2017 PornAOSP Project. Licenced under WTFPL -->
+
+<!-- RoomService file for Mi3/4. Official developer - matikorzenio -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+    <project name="LineageOS/android_device_xiaomi_cancro" path="device/xiaomi_cancro" remote="github" branch="cm-14.1" />
+    <project name="LineageOS/android_kernel_xiaomi_cancro" path="kernel/xiaomi_cancro" remote="github" branch="cm-14.1" />
+    <project name="TheMuppets/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" branch="cm-14.1" />
+
+</manifest>
