@@ -1,0 +1,13 @@
+<!-- 2017 PornAOSP Project. Licenced under WTFPL -->
+
+<!-- RoomService file for Redmi Note 4X. Official developer - edi194 -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+    <project name="LineageOS/android_device_xiaomi_mido" path="device/xiaomi/mido" remote="github" branch="cm-14.1" />
+    <project name="LineageOS/android_kernel_xiaomi_msm8953" path="kernel/xiaomi/msm8953" remote="github" branch="cm-14.1" />
+    <project name="TheMuppets/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" branch="cm-14.1" />
+    <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" branch="cm-14.1"  />
+</manifest>
